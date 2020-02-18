@@ -13,6 +13,5 @@ docker pull zielonafabryka/cyberduck
 * https://duck.sh/
 * https://trac.cyberduck.io/wiki/help/en/howto/cli
 
-
 ## Author
 * Paweł 'felixd' Wojciechowski - [Outsourcing IT - Konopnickiej.Com](https://konopnickiej.com)
