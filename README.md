@@ -8,5 +8,11 @@ https://hub.docker.com/r/zielonafabryka/cyberduck
 docker pull zielonafabryka/cyberduck
 ```
 
+## Documentation / FAQ / Wiki
+
+* https://duck.sh/
+* https://trac.cyberduck.io/wiki/help/en/howto/cli
+
+
 ## Author
 * Paweł 'felixd' Wojciechowski - [Outsourcing IT - Konopnickiej.Com](https://konopnickiej.com)
