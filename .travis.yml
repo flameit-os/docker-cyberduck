@@ -1,0 +1,23 @@
+os: linux
+language: bash
+services:
+  - docker
+
+env: 
+  global:
+    - DOCKER_REPO="zielonafabryka/cyberduck"
+    
+stages:
+  - build
+
+before_install:
+  - echo "$DOCKER_HUB_PASSWORD" | docker login -u "$DOCKER_HUB_USER" --password-stdin
+
+jobs:
+  include:
+    - stage: build
+      name: "Cyberduck CLI on ubuntu:latest"
+      script: 
+        - docker build -t $DOCKER_REPO:latest
+        - if [ "$TRAVIS_BRANCH" = "master" ]; then docker push $DOCKER_REPO; docker tag $DOCKER_REPO:latest; fi
+    
