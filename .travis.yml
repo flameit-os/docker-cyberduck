@@ -19,5 +19,5 @@ jobs:
       name: "Cyberduck CLI on ubuntu:latest"
       script: 
         - docker build -t $DOCKER_REPO:latest latest
-        - if [ "$TRAVIS_BRANCH" = "master" ]; then docker push $DOCKER_REPO; docker tag $DOCKER_REPO:latest; fi
+        - if [ "$TRAVIS_BRANCH" = "master" ]; then docker push $DOCKER_REPO; fi
     
