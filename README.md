@@ -1,6 +1,6 @@
 [![Build Status](https://travis-ci.org/zielonafabryka/docker-cyberduck.svg?branch=master)](https://travis-ci.org/zielonafabryka/docker-cyberduck)
 
-# Cyberduck CLI on Docker
+# Cyberduck CLI on Docker [ubuntu:latest]
 
 https://hub.docker.com/r/zielonafabryka/cyberduck
 
