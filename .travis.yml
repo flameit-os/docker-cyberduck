@@ -18,6 +18,6 @@ jobs:
     - stage: build
       name: "Cyberduck CLI on ubuntu:latest"
       script: 
-        - docker build -t $DOCKER_REPO:latest latest
+        - docker build -t $DOCKER_REPO:latest .
         - if [ "$TRAVIS_BRANCH" = "master" ]; then docker push $DOCKER_REPO; fi
     
