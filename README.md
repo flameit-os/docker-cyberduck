@@ -15,3 +15,6 @@ docker pull zielonafabryka/cyberduck
 
 ## Author
 * Paweł 'felixd' Wojciechowski - [Outsourcing IT - Konopnickiej.Com](https://konopnickiej.com)
+
+# Copyright
+© 2020 [Zielona Fabryka - dekoracje wnętrz i florystyka](https://sklep.zielonafabryka.pl)
