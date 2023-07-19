@@ -13,8 +13,11 @@ docker pull zielonafabryka/cyberduck
 * https://duck.sh/
 * https://trac.cyberduck.io/wiki/help/en/howto/cli
 
-## Author
-* Paweł 'felixd' Wojciechowski - [Outsourcing IT - Konopnickiej.Com](https://konopnickiej.com)
+## Autorzy i podziękowania
+
+* Paweł 'felixd' Wojciechowski [Outsourcing IT - Konopnickiej.Com](https://www.konopnickiej.com)
+* [Ustal.pl - Kwalifikowane podpisy elektroniczne](https://ustal.pl)
 
 # Copyright
-© 2020 [Zielona Fabryka - dekoracje wnętrz i florystyka](https://sklep.zielonafabryka.pl)
+
+© 2023 [FlameIT - Immersion Cooling](https://flameit.io)
