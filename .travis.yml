@@ -5,7 +5,7 @@ services:
 
 env: 
   global:
-    - DOCKER_REPO="zielonafabryka/cyberduck"
+    - DOCKER_REPO="flameit/cyberduck"
     
 stages:
   - build
