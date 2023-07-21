@@ -10,6 +10,7 @@ docker pull flameit/cyberduck
 
 * https://duck.sh/
 * https://trac.cyberduck.io/wiki/help/en/howto/cli
+* Example: https://github.com/flameit-os/docker-cyberduck-example
 
 ## Authors
 
